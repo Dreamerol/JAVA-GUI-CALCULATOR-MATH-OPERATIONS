@@ -1,5 +1,13 @@
 # 🧮 Java GUI Calculator
 
+---
+
+![BOOKS](https://github.com/Dreamerol/Dreamerol/blob/7909fe23c9912d7fec2b18a5d963079a9561e1e1/ZPOLYNOMY2.jpg)
+
+---
+
+## 🚀 Overview
+
 This project is a **simple calculator application** built using Java with a **Graphical User Interface (GUI)**. It allows users to perform **basic arithmetic operations** through an interactive visual interface.
 
 ---
