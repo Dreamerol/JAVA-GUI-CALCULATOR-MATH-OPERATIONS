@@ -1,4 +1,4 @@
-<h2 align="center">🖥️ JAVA GUI CALCULATOR – SWING, EVENT HANDLING, MATH OPERATIONS</h2>
+<h2 align="center">🖥️ JAVA GUI CALCULATOR – MATH OPERATIONS</h2>
 
 ---
 
