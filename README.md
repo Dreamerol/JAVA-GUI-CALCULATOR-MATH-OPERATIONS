@@ -194,7 +194,7 @@ The purpose of this project is to demonstrate how to:
 - Practice **basic arithmetic computation** in a GUI context  
 - Gain experience designing **interactive applications**  
 
-===
+---
 
 <p align="center">
   🔗 Explore more on my GitHub profile: 
