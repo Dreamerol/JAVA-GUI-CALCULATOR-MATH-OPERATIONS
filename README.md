@@ -1,6 +1,6 @@
 <h1 align="center">🖥️ 𝗝𝗔𝗩𝗔 𝗚𝗨𝗜 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗢𝗥 – 𝗠𝗔𝗧𝗛 𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡𝗦</h1>
 
----
+<br>
 
 <p align="center">
   <img src="https://github.com/Dreamerol/Dreamerol/blob/61aa8722583e939122067aa47c453391ba41da11/ZZZZZZZCOMPUTER.jpg?raw=true"
@@ -8,7 +8,7 @@
 </p>
 
 
----
+<br>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
